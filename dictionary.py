@@ -1,18 +1,19 @@
 #!/usr/bin/python3
 
-#####################################################
-# 🐍 Become a Green Snake with Reporty the Python 😀 #
-#####################################################
+#############################################################################
+# 🐍 Non-primitive Inbuilt Python Data Structures with Reporty the Python 😀 #
+#############################################################################
 
-#########################################################################
-# Some short, basic and work-in-progress notes just to get you started. #
-# This is neither exhaustive, nor systematic guide for Python 3!        #
-# Compiled from open online resources and practical experience          #
-# by Dimitar D. Mitov - Reporty the Python - ddmitov@gmail.com          #
-#########################################################################
+##################################################################
+# Some short and basic notes just to get you started.            #
+# This is neither exhaustive, nor systematic guide for Python 3! #
+# Compiled from open resources and practical experience          #
+# by Dimitar D. Mitov - Reporty the Python - ddmitov@gmail.com   #
+##################################################################
 
 # This document is written in Visual Studio Code.
-# All examples here require only vanilla Python 3 with core modules.
+# All examples here require only vanilla Python 3.
+
 # Type 'python' or 'python3' in any terminal,
 # paste and execute the following code snippets by
 # pressing Enter once for single-line statements or
